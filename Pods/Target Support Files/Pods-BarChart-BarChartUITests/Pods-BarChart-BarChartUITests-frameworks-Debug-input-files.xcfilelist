@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-BarChart-BarChartUITests/Pods-BarChart-BarChartUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
